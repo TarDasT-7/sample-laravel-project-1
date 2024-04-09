@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "anton";
+    src: url("/fonts/Anton/Anton-Regular.ttf");
+}
+@font-face {
+    font-family: "farsan";
+    src: url("/fonts/Farsan/Farsan-Regular.ttf");
+}
+@font-face {
+    font-family: "handlee";
+    src: url("/fonts/Handlee/Handlee-Regular.ttf");
+}
+@font-face {
+    font-family: "inter";
+    src: url("/fonts/inter/Inter-generally.ttf");
+}
+@font-face {
+    font-family: "playfair";
+    src: url("/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf");
+}
+.anton {
+    font-family: anton;
+}
+.farsan {
+    font-family: farsan;
+}
+.handlee {
+    font-family: handlee;
+}
+.inter {
+    font-family: inter;
+}
+.playfair {
+    font-family: playfair;
+}
